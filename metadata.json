@@ -1,0 +1,7 @@
+{
+  "name": "English App - Grade 4",
+  "description": "An interactive application for Grade 4 students to practice English vocabulary and sentence building, featuring text-to-speech and voice recognition for pronunciation practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
